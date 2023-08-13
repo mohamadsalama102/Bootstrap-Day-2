@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Mulish", sans-serif;
+    background-color: #FFFFFF;
+}
+
+.link {
+    color: orange;
+  }
+  
+.btn-primary {
+    background-color: orange;
+    border: orange;
+}
+  
+.btn-primary:hover {
+    background: orange;
+    border: 1px solid orange;
+}
+
+.btn-outline-primary {
+    color: orange;
+    border: 1px solid orange;
+}
+
+.btn-outline-primary:hover {
+    background: orange;
+    border: 1px solid orange;
+}
+.trendingImg{
+    
+   
+    height:200px;
+
+}
